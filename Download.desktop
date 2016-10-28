@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Exec=sh -c 'git fetch && git reset origin/HEAD' 
+Path=/home/ly1un/Code/cv
+Type=Application
+Terminal=true
+Name[zh_CN]=Download
