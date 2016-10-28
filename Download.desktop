@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=sh -c 'git fetch && git reset origin/HEAD' 
+Exec=sh -c 'git fetch && git reset --hard origin/HEAD' 
 Path=/home/ly1un/Code/cv
 Type=Application
 Terminal=true
