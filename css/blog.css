@@ -36,7 +36,7 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #019875;
+  background-color: rgb(174, 52, 203);
   position:fixed;
   width: 100%;
   z-index:999;
